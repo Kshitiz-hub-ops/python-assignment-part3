@@ -1,0 +1,3 @@
+2026-04-05 15:03:35.673384 - Error: File 'ghost_file.txt' not found.
+[2026-04-05 15:07:30] ERROR in fetch_products: ConnectionError — No connection could be made
+[2026-04-05 15:07:31] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
